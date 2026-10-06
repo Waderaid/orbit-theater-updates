@@ -1,0 +1,7 @@
+{
+  "versionCode": 3,
+  "versionName": "2.1",
+  "apkUrl": "https://files.catbox.moe/or2lyq.apk",
+  "sha256": "2fcfa139aebbc7b3067e7ef7fde64f7ab3f548754af5ba122dba3291897efe30",
+  "releaseNotes": "Built-in auto-updater: the app now checks for updates at startup and from the UPDATES menu, downloads new versions with progress, verifies SHA-256, and hands the APK to the system installer (you confirm on-headset)."
+}
