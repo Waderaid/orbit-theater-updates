@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "2.2",
-  "apkUrl": "https://files.catbox.moe/ag6lu5.apk",
-  "sha256": "ea375ca30a52137fecf66ca9ede9db270dd46f75b870eb13ed331fcfccaccc6d",
-  "releaseNotes": "Semantic video search: on-device EmbeddingGemma 2 AI indexes your headset library by file name + video info, then a typed query (on-screen keyboard) ranks the best matches. The 157 MB model downloads once on demand, then works fully offline."
+  "versionCode": 5,
+  "versionName": "2.3",
+  "apkUrl": "https://files.catbox.moe/adizjc.apk",
+  "sha256": "165d0bb008d90bb1c3e4bc7b30a7ccf70953ffbfd7a6d7116e2e14dab24ef3f5",
+  "releaseNotes": "v2.3 blitz: 20 UI upgrades (3 themes, animations, toasts, spinners, text size, high-contrast, dimmer, clock, idle auto-hide, volume OSD, seek tooltips, chapter ticks), 20 features (playlists, shuffle/repeat, favorites, sleep timer, history, sorting, speed presets, A-B loop, SRT subtitles, audio-only, projection auto-detect, moment bookmarks, stats, transport lock, screen distance), 20 on-device AI upgrades (query autocomplete, more-like-this, smart collections, NL duration filters, search history, saved searches, semantic sort, AI auto-tags, surprise-me, match explanations, 30-min smart mix, duplicate finder, query expansion, chapter search, PC-share search, thermal-aware AI)."
 }
