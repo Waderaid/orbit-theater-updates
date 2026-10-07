@@ -1,7 +1,7 @@
 {
   "versionCode": 4,
   "versionName": "2.2",
-  "apkUrl": "https://files.catbox.moe/eqe5wx.apk",
-  "sha256": "2c3784d5f14beb4871a4efd69d182652630463e0e8690a2ca135fa85b1874360",
+  "apkUrl": "https://files.catbox.moe/ag6lu5.apk",
+  "sha256": "ea375ca30a52137fecf66ca9ede9db270dd46f75b870eb13ed331fcfccaccc6d",
   "releaseNotes": "Semantic video search: on-device EmbeddingGemma 2 AI indexes your headset library by file name + video info, then a typed query (on-screen keyboard) ranks the best matches. The 157 MB model downloads once on demand, then works fully offline."
 }
