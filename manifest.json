@@ -1,7 +1,1 @@
-{
-  "versionCode": 5,
-  "versionName": "2.3",
-  "apkUrl": "https://files.catbox.moe/adizjc.apk",
-  "sha256": "165d0bb008d90bb1c3e4bc7b30a7ccf70953ffbfd7a6d7116e2e14dab24ef3f5",
-  "releaseNotes": "v2.3 blitz: 20 UI upgrades (3 themes, animations, toasts, spinners, text size, high-contrast, dimmer, clock, idle auto-hide, volume OSD, seek tooltips, chapter ticks), 20 features (playlists, shuffle/repeat, favorites, sleep timer, history, sorting, speed presets, A-B loop, SRT subtitles, audio-only, projection auto-detect, moment bookmarks, stats, transport lock, screen distance), 20 on-device AI upgrades (query autocomplete, more-like-this, smart collections, NL duration filters, search history, saved searches, semantic sort, AI auto-tags, surprise-me, match explanations, 30-min smart mix, duplicate finder, query expansion, chapter search, PC-share search, thermal-aware AI)."
-}
+{"apkUrl":"https://files.catbox.moe/shqbim.apk","releaseNotes":"v2.4: app display name renamed to 'Orbit Theater MUSE iPhone' (Quest home-screen label, XR application name, boot text). No other behavior changes.","sha256":"0376b3b57cfc5471b047ec32a7907d142039de11b6c7389477c1846f3ba8c036","versionCode":6,"versionName":"2.4"}
